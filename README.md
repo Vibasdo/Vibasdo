@@ -14,6 +14,6 @@ I enjoy designing electronic circuit boards and schematics. I use software like 
 
 ## Software
 
-I am interested in programming languages like Python and C. I have used Python in different projects. I have also worked on programming microcontrollers with C.
+I am interested in programming languages like Python, C and EDİTÇİ. I have used Python in different projects. I have also worked on programming microcontrollers with C.
 
 *✉️  You can contact me at [vibasdo@gmail.com](mailto:vibasdo@gmail.com)
