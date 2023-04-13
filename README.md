@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Berat 👋
 
-<!--
-**Vibasdo/Vibasdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a renewable energy student. These are my areas of interest:
 
-Here are some ideas to get you started:
+## Industrial Automation and Sewing Machinens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in industrial automation and industrial sewing machines. Also I have experience in basic CNC concepts. I am interested in technologies CNC machining.
+
+## Electronics
+
+I enjoy designing electronic circuit boards and schematics. I use software like Eagle and KiCad to create my designs.
+
+## Software
+
+I am interested in programming languages like Python and C. I have used Python in different projects. I have also worked on programming microcontrollers with C.
